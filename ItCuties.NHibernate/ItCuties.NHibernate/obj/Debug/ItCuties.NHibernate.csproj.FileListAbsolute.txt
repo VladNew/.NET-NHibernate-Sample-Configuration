@@ -8,3 +8,12 @@ F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCut
 F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.exe
 F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.pdb
 F:\##TWILLIGHT##\Documents\Visual Studio 2012\Projects\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Customer.hbm.xml
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.exe.config
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.exe
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.pdb
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Customer.hbm.xml
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.exe
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\ItCuties.NHibernate.pdb
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Iesi.Collections.dll
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\NHibernate.dll
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.csprojResolveAssemblyReference.cache

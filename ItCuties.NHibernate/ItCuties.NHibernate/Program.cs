@@ -13,7 +13,7 @@ namespace ItCuties.NHibernate
             var cfg = new Configuration();
             cfg.DataBaseIntegration(x =>
             {
-                x.ConnectionString = "Server=.\\SqlExpress; Database=ItCutiesDemo; Integrated Security=SSPI;";
+                x.ConnectionString = "Server=.; Database=ItCutiesDemo; Integrated Security=SSPI;";
                 x.Driver<SqlClientDriver>();
                 x.Dialect<MsSql2012Dialect>();
             });
