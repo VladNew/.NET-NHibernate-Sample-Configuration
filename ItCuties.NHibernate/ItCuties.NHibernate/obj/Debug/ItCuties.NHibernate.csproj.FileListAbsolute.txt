@@ -17,3 +17,8 @@ J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\I
 J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Iesi.Collections.dll
 J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\NHibernate.dll
 J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\obj\Debug\ItCuties.NHibernate.csprojResolveAssemblyReference.cache
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Antlr3.Runtime.dll
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Remotion.Linq.dll
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\NHibernate.pdb
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\NHibernate.xml
+J:\git\github\VladNew\.NET-NHibernate-Sample-Configuration\ItCuties.NHibernate\ItCuties.NHibernate\bin\Debug\Remotion.Linq.xml
